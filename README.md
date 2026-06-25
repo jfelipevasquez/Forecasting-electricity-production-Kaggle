@@ -6,7 +6,6 @@ This repository is  a Kaggle competition wich the aim  is to create a model that
 - Juan Felipe Vásquez Uribe
 - Santiago Rojas Posada
 - Aylla Joani Mendonca de Oliveira
-<br>
 
 ## Project Scope
 
@@ -24,9 +23,7 @@ The main purpose of this project is educational, focusing on basic Machine Learn
 
 ## Problem Description 
 
-This project addresses a regression problem where the goal is to predict photovoltaic electricity generation using only meteorological, astronomical, and radiation-related variables.
-
-The dataset provides:
+This project addresses a regression problem where the goal is to predict photovoltaic electricity generation using only meteorological, astronomical, and radiation-related variables. The dataset provides:
 - Historical photovoltaic power generation
 - Meteorological measurements
 - Solar geometry (astronomical variables)
